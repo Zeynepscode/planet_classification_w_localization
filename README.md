@@ -1,6 +1,9 @@
 # Planet Classification and Localization
 
-Merhabalar, bu repo başlıktan da anlaşılabileceği üzere gezegen resimlerinin sınıflandırılması ve konumunun belirlenmesi üzerine yapılan bir çalışmadır. Eğitilmiş model boyutu fazla olduğundan dolayı burada paylaşamıyorum. Lakin burada step-by-step anlatacağım, kendiniz google colab üzerinden eğitip, sonuçları ve kodları detaylıca inceleyebilirsiniz.
+
+Hi!
+This project is about image classification with localization. I chose some planet images. I can't share the trained model due to the size of it. However, I will explain step-by-step here, you can train yourself on google colab and examine the results and codes in detail.
+
 ## Installation
 
-Bu kısımda, "installation.ipynb" dosyasını, google colab ile açarak ve drive bağlantısını yapılarak, gerekli dosyaları drive kaydedebilirsiniz.
+In this section, you can save necessary files on drive by opening the "installation.ipynb" file with google colab and drive connection.
