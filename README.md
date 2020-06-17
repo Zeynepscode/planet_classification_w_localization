@@ -11,7 +11,7 @@ Create a new folder named as Colab Notebooks.(if there is not such a file)
 Run "installation.ipynb" file.
 Open "create_training_data.ipynb".After that you will have an dataset.npy file on your drive.(it can take a while)
 In "train_keras" first only run numpy 1.16 section then take it as a comment line.
-Check whether you work with cpu or gpu.It has to be GPU.Lastly,run test_keras file.
+Check whether you work with cpu or gpu.It has to be GPU.Lastly,run test_keras file and see the results!
 
 
 
