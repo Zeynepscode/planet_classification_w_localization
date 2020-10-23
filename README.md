@@ -2,7 +2,7 @@
 
 
 Hi!
-This project is about image classification with localization. I chose some planet images. I can't share the trained model due to the size of it. However, I will explain step-by-step here, you can train yourself on google colab and examine the results and codes in detail.
+In this project I build a model responsible for predicting the planet as well as the bounding box around the planet.I can't share the trained model due to the size of it. However, I will explain step-by-step here, you can train yourself on google colab and examine the results and codes in detail.
 
 ## Installation
 Open google colob and select github tab then copy my github link and select "installation.ipynb" file.
